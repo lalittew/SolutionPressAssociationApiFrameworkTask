@@ -1,0 +1,6 @@
+1) Verify that the user is able to delete any duplicate video in list
+2) Verify that user gets error response on sending the wrong requests for GET,POST,DELETE,PATCH
+3) Verify that user gets error response on trying to post wrong format request
+4) Verify that user gets error response on deleting the video not present in list
+5) Verify that the user is getting error on fetching the field not exis in response
+6) Verify that user is able to post duplicate request
